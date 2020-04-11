@@ -1,0 +1,5 @@
+/home/paseam/codeing/vscode/leetcode-ongoing/build/CMakeFiles/edit_cache.dir
+/home/paseam/codeing/vscode/leetcode-ongoing/build/CMakeFiles/rebuild_cache.dir
+/home/paseam/codeing/vscode/leetcode-ongoing/build/sort_algorithm/CMakeFiles/edit_cache.dir
+/home/paseam/codeing/vscode/leetcode-ongoing/build/sort_algorithm/CMakeFiles/rebuild_cache.dir
+/home/paseam/codeing/vscode/leetcode-ongoing/build/sort_algorithm/CMakeFiles/bubble_sort.dir
