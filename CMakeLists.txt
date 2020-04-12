@@ -23,5 +23,11 @@ endif()
 
 
 # add_subdirectory(examples)
-add_subdirectory(sort_algorithm)
+#add_subdirectory(sort_algorithm)
 
+include_directories(${CMAKE_SOURCE_DIR}/sort_algorithm)
+set(_SRCS
+    main.cpp
+)
+add_executable(main ${_SRCS})
+#target_include_directories(main PUBLIC ${CMAKE_SOURCE_DIR}/sort_algorithm)
