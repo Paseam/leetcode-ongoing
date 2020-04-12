@@ -1,0 +1,28 @@
+sort alogorithm 
+一 比较类排序  时间下限 o(nlnn)
+1 插入排序  简单插入/希尔排序
+2 选择排序  简单选择/堆排序
+3 交换排序  冒泡发/快速排序
+4 归并排序  二路归并/多路归并
+
+二 非比较类排序 可以突破o(nlnn)达到o(n) 
+1 计数排序
+2 基数排序
+3 桶排序
+
+交换排序之冒泡排序 bubble sort
+time complexity： 平均 o(n^2)  最坏(o(n^2)) 最好(o(1)) 
+space complexity： o(1)
+stable sort
+
+伪代码
+input： data 长度：n
+for e=0:n-2
+    for index=n-1:0+e+1
+        sort data(index) vs data(index-1) 并交换
+    if 上一轮没有发生交换 则排序好 可以结束
+    or 继续
+
+
+    
+
