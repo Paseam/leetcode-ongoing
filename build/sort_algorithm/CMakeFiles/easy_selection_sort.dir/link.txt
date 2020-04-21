@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11 -g   CMakeFiles/easy_selection_sort.dir/easy_selection_srot.cpp.o  -o easy_selection_sort 

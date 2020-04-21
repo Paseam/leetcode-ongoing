@@ -1,4 +1,4 @@
-# Install script for directory: /home/paseam/codeing/vscode/leetcode-ongoing/sort_algorithm
+# Install script for directory: /home/paseam/star/learn/leetcode-ongoing/sort_algorithm
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

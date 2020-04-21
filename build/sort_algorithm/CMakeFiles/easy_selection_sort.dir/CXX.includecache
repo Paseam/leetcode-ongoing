@@ -6,9 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/home/paseam/star/learn/leetcode-ongoing/sort_algorithm/bubble_sort.cpp
+/home/paseam/star/learn/leetcode-ongoing/sort_algorithm/easy_selection_srot.cpp
 iostream
 -
 vector
+-
+memory
 -
 

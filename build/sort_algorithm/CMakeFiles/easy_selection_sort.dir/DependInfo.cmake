@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/paseam/star/learn/leetcode-ongoing/sort_algorithm/bubble_sort.cpp" "/home/paseam/star/learn/leetcode-ongoing/build/sort_algorithm/CMakeFiles/bubble_sort.dir/bubble_sort.cpp.o"
+  "/home/paseam/star/learn/leetcode-ongoing/sort_algorithm/easy_selection_srot.cpp" "/home/paseam/star/learn/leetcode-ongoing/build/sort_algorithm/CMakeFiles/easy_selection_sort.dir/easy_selection_srot.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
