@@ -1,2 +1,2 @@
 # leetcode-ongoing
-code
+code base for learn to code with c/c++
