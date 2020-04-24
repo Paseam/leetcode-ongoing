@@ -2,7 +2,7 @@
 #include <vector>
 #include <memory>
 
-int sort(int *data,int n)
+int easy_selection_srot(int *data,int n)
 {
     for(int i=0;i<n-1;i++)
     {
@@ -21,16 +21,6 @@ int sort(int *data,int n)
             data[i]=data[nMaximumIndex];
             data[nMaximumIndex]=temp;
         }
-    }
-    return 0;
-}
-int main()
-{
-    std::vector<int> data={4,1,5,3,2,6,8,9};
-    sort(data.data(),data.size());
-    for(int i=0;i<data.size();i++)
-    {
-        std::cout<<data[i]<<" ";
     }
     return 0;
 }
