@@ -60,5 +60,18 @@ merge(data)//merge two segment
 
 
 
+not compare alogorithm
+counting sort
+stable
+time complexity：o(n+k)   n：data 长度 k数值范围
+space complexity：o(n+k)
+k不是很大并且序列比较集中时，计数排序是一个很有效的排序算法。
+1、 max_data  min_data
+2、count max_data-min_data+2   min-1  min  .... max
+3、cumulative sum
+4、from back to front place data in 
+
+
+
     
 
