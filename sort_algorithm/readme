@@ -5,6 +5,8 @@ sort alogorithm
 3 交换排序  冒泡发/快速排序
 4 归并排序  二路归并/多路归并
 
+简单加入/冒泡/归并 stable
+
 二 非比较类排序 可以突破o(nlnn)达到o(n) stable
 1 计数排序
 2 基数排序
@@ -33,6 +35,30 @@ for e=0:n-2
     for index=e:n-1
         select maximum index
     swap e,maximum_index
-    
+
+
+快速排序 quick_sort
+time complexity：o(nlogn)
+space complexity：o(1)
+not stable 
+
+
+shell sort
+time complexity：o(nlogn)
+space complexity：o(1)
+not stable 
+
+merge sort  //this is important for multi-thread(gpu)
+time complexity：o(nlogn)
+space complexity：o(n)
+stable 
+input:n
+mid=n/2
+merge_sort(data,mid)
+merge_sort(data,mid+1)
+merge(data)//merge two segment
+
+
+
     
 
