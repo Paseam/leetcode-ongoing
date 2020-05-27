@@ -71,6 +71,10 @@ k不是很大并且序列比较集中时，计数排序是一个很有效的排�
 3、cumulative sum
 4、from back to front place data in 
 
+bucket_sort
+stable 
+time o(n+k)
+
 
 
     
